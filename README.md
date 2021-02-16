@@ -12,12 +12,13 @@
 
   See more: https://en.wikipedia.org/wiki/Caesar_cipher
 
+<h2>Files:</h2>
 
  ````main.py```` asks for user input (string to encrypt) and a shift key (number), then returns the encrypted message to the user.
  
  ````caesar_cipher.py```` is the encryption function.
  
- ````tests.py```` makes sure that the code works properly.
+ ````tests.py```` makes sure that the encryption function works properly.
  
  
 <h2>The algorithm:</h2> 
