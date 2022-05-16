@@ -1,4 +1,4 @@
-<h1>Caesar's cipher in Python</h1>
+# Caesar's cipher in Python 🐍 :
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/2560px-Caesar_cipher_left_shift_of_3.svg.png" width="500" class="center">
@@ -12,7 +12,7 @@
 
   See more: https://en.wikipedia.org/wiki/Caesar_cipher
 
-<h2>Files:</h2>
+# Files 📂 :
 
  ````main.py```` asks for user input (string to encrypt) and a shift key (number), then returns the encrypted message to the user.
  
@@ -21,7 +21,7 @@
  ````tests.py```` makes sure that the encryption function works properly.
  
  
-<h2>The algorithm:</h2> 
+# The algorithm 🧮 :
 
 Each character is translated to a number, a=0, b=1, c=2, d=3... z=25. The caesar cipher encryption function, e(x), x being the character we are trying to encrypt.
 
